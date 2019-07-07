@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/localuser/Документы/Projects/Shtirlec/source/Пример/Shtirlec.cpp
+iostream
+-
+string
+-
+thread
+-
+chrono
+-
+cinttypes
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+

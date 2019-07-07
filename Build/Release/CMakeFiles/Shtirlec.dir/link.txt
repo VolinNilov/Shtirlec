@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG -Wall -Wextra -O3 --std=c++17   CMakeFiles/Shtirlec.dir/source/Пример/Shtirlec.cpp.o  -o Shtirlec 
