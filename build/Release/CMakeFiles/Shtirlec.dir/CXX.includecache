@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/SerialPort.hpp
+cinttypes
+-
+string
+-
+
+/home/localuser/Документы/Projects/Shtirlec/source/Main.cpp
+iostream
+-
+string
+-
+pqxx/pqxx
+-
+thread
+-
+chrono
+-
+cinttypes
+-
+cstring
+-
+unistd.h
+-
+fcntl.h
+-
+cerrno
+-
+SerialPort.hpp
+/home/localuser/Документы/Projects/Shtirlec/source/SerialPort.hpp
+

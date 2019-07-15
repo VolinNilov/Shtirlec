@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -Wall -Wextra -O3 --std=c++17   CMakeFiles/Shtirlec.dir/source/Main.cpp.o CMakeFiles/Shtirlec.dir/source/SerialPort.cpp.o CMakeFiles/Shtirlec.dir/source/init_serial_port.c.o  -o Shtirlec -lpthread -lpqxx 
