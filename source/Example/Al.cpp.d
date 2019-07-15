@@ -27,7 +27,7 @@ using namespace std::chrono_literals;
 int main(int argc, char **argv) // Аргументы main() - число аргументов коммандной строки и массив строк, их содержащих.
 {
     // Константы.
-    const size_t BufferSize = 64; // Размер буффера.
+    const size_t BufferSize = 8; // Размер буффера.
 
     // Буффер для временного хранения передаваемых данных.
     char Buffer[BufferSize];
