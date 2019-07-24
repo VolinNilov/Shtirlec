@@ -1,3 +1,0 @@
-/home/localuser/Документы/Projects/Shtirlec/Build/Release/CMakeFiles/rebuild_cache.dir
-/home/localuser/Документы/Projects/Shtirlec/Build/Release/CMakeFiles/edit_cache.dir
-/home/localuser/Документы/Projects/Shtirlec/Build/Release/CMakeFiles/Shtirlec.dir
